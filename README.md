@@ -2,7 +2,7 @@
 
 > **"Aspiring Software Engineer"**
 
-**This profile is my digital playground where I experiment with code, dissect algorithms, and build stuff.**
+**This profile serves as my digital workspace where I experiment with code, analyze algorithms, and create projects.**
 
 ---
 
