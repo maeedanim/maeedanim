@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F4C430&width=435&lines=Hi+there,+I'm+Maeed!+%F0%9F%91%8B;Welcome+to+my+Lab.+%F0%9F%A7%AA;I+forge+cool+stuff." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F4C430&width=435&lines=Hi+there,+I'm+Maeed!+%F0%9F%91%8B;Welcome+to+my+Lab.+%F0%9F%A7%AA;I+forge+cool+stuff!!!" alt="Typing SVG" /></a>
 
 > **"Aspiring Software Engineer"**
 
